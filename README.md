@@ -1,20 +1,20 @@
 ## Hi there 👋
 
- Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm EZEH ONUABUCHI DANIEL!
 
 ### 👨‍💻 About Me
-- 💻 I’m passionate about [your interests or skills]
-- 🌱 Currently learning: [topics you're learning]
-- 🔭 I’m currently working on: [projects you're working on]
-- 💬 Ask me about: [areas of expertise or topics you like discussing]
-- 📫 Reach me at: [your email or preferred contact method]
+- 💻 I’m passionate about data analysis, problem-solving, and development.
+- 🌱 Currently learning: Advanced analytics techniques and machine learning.
+- 🔭 I’m currently working on: Building data pipelines and automating analytics processes.
+- 💬 Ask me about: Data analytics, SQL, Python, JavaScript,django and development best practices.
+- 📫 Reach me at: [your-email@example.com]
 
 ---
 
 ### 🛠️ Languages and Tools:
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sqlite)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudio)
@@ -22,13 +22,9 @@
 ---
 
 ### 🚀 My Projects:
-- [Project 1 Name](https://github.com/your-username/project-1): Short description of the project
-- [Project 2 Name](https://github.com/your-username/project-2): Short description of the project
+- [Data Analytics Pipeline](https://github.com/your-username/project-1): A project automating data pipeline creation using Python and SQL.
+- [JavaScript Interactive Dashboard](https://github.com/your-username/project-2): A real-time interactive dashboard built with JavaScript.
 
----
-
-### 📈 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 ---
 
