@@ -1,13 +1,11 @@
-## Hi there 👋
-
 # Hi there 👋, I'm EZEH ONUABUCHI DANIEL!
 
 ### 👨‍💻 About Me
 - 💻 I’m passionate about data analysis, problem-solving, and development.
 - 🌱 Currently learning: Advanced analytics techniques and machine learning.
-- 🔭 I’m currently working on: Building data pipelines and automating analytics processes.
-- 💬 Ask me about: Data analytics, SQL, Python, JavaScript,django and development best practices.
-- 📫 Reach me at: [your-email@example.com]
+- 🔭 I’m working on: Building data pipelines and automating analytics processes.
+- 💬 Ask me about  Data analytics, SQL, Python, JavaScript,django and development best practices.
+- 📫 Reach me at: ezehdaniel01@gmail.com
 
 ---
 
