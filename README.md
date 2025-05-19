@@ -52,7 +52,7 @@
 
 ### 🚀 My Projects:
 - [Personal portfolio website](https://github.com/ezehdaniel/Personal-profile-): A project that showcases my skills as a web developer. It is built using HTML, CSS, and JavaScript.
-- [Data Analytics Pipeline](https://github.com/your-username/project-1): A project automating data pipeline creation using Python and SQL.
+- [Data Analytics SQL queries to solve business Insight ](https://github.com/ezehdaniel/DataAnalytics-Assessment/tree/main): A project automating data pipeline creation using Python and SQL.
 - [Real-Time Interactive Dashboard](https://github.com/your-username/project-2): A real-time interactive dashboard built with JavaScript and Django.
 
 ### 📈 GitHub Stats:
